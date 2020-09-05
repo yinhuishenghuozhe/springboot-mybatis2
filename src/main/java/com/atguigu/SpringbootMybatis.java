@@ -12,6 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class SpringbootMybatis {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootMybatis.class, args);
-        System.out.println("2222222");
+        System.out.println("111111111");
     }
 }
